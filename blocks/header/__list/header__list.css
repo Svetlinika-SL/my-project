@@ -1,0 +1,11 @@
+.header__list {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  list-style: none;
+  font-family: 'PlayfairDisplay', sans-serif;
+  cursor: pointer;
+  top: 35px;
+  padding: 0;
+  margin: 0;
+}

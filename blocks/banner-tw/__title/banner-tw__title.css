@@ -1,0 +1,16 @@
+.banner-tw__title {
+  max-width: 1173px;
+  height: 154px;
+  font-family: 'PlayfairDisplay', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 140px;
+  line-height: 110%;
+  text-align: center;
+  color: #d3d3d3;
+  margin-top: 273px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+}

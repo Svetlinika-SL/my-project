@@ -1,0 +1,19 @@
+.banner__button {
+  min-width: 160px;
+  min-height: 44px;
+  border: 1px solid #d3d3d3;
+  border-radius: 30px;
+  margin-top: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+  background-color: transparent;
+  cursor: pointer;
+  text-align: center;
+  transition: opacity .5s ease;
+}
+
+.banner__button:hover {
+  opacity: .5;
+}

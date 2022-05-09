@@ -1,0 +1,17 @@
+.banner-black__button {
+  min-width: 186px;
+  min-height: 42px;
+  border: 1px solid #ffffff;
+  border-radius: 30px;
+  margin: 60px auto 100px;
+  padding: 0;
+  background-color: #ffffff;
+  cursor: pointer;
+  text-align: center;
+  color: #000000;
+  transition: opacity .5s ease;
+}
+
+.banner-black__button:hover {
+  opacity: .5;
+}

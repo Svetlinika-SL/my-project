@@ -1,0 +1,13 @@
+.banner-f__title {
+  min-width: 897px;
+  height: 308px;
+  font-family: 'PlayfairDisplay', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 140px;
+  line-height: 110%;
+  text-align: center;
+  color: #d3d3d3;
+  margin: 196px 272px 50px;
+  padding: 0;
+}

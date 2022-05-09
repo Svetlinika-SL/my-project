@@ -1,0 +1,21 @@
+.header__item {
+  position: relative;
+  color: #ffffff;
+  text-decoration: none;
+  padding-right: 40px;
+  right: 63px;
+  font-family: 'PlayfairDisplay';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 0px;
+  transition: opacity .5s ease;
+}
+
+.header__item:hover {
+  opacity: .5;
+}
+
+.header__item:last-of-type {
+  padding-right: 0;
+}

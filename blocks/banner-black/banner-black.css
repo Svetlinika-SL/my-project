@@ -1,0 +1,8 @@
+.banner-black {
+  max-width: 1440px;
+  height: 435px;
+  display: flex;
+  flex-direction: column;
+  background: #000000;
+  background-size: 100%;
+}

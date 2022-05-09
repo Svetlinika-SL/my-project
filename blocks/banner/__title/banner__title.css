@@ -1,0 +1,16 @@
+.banner__title {
+  margin-top: 164px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+  width: 949px;
+  height: 154px;
+  font-family: 'PlayfairDisplay', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 140px;
+  line-height: 110%;
+  text-align: center;
+  color: #d3d3d3;
+}

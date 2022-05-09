@@ -1,0 +1,16 @@
+.footer__links {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 215%;
+  text-align: right;
+  color: #666666;
+  list-style: none;
+  padding: 0;
+  margin: 50px 120px 40px 0;
+}
+

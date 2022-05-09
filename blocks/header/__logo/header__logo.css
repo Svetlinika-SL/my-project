@@ -1,0 +1,9 @@
+.header__logo {
+  max-width: 120px;
+  height: 44px;
+  position: relative;
+  top: 38px;
+  left: 60px;
+  margin: 0;
+  padding: 0;
+}

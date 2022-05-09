@@ -1,0 +1,15 @@
+.banner__subtitle {
+  position: relative;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 158%;
+  text-align: center;
+  color: #d3d3d3;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+}
