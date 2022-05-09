@@ -8,7 +8,14 @@
   background-color: #ffffff;
   cursor: pointer;
   text-align: center;
-  color: #000000;
+  text-decoration: none;
+  font-family: 'PlayfairDisplay', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  letter-spacing: 0.5px;
+  color: #111111;
   transition: opacity .5s ease;
 }
 

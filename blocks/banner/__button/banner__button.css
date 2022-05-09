@@ -10,7 +10,14 @@
   padding: 0;
   background-color: transparent;
   cursor: pointer;
-  text-align: center;
+  font-family: 'PlayfairDisplay', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 200%;
+  letter-spacing: 0.5px;
+  color: #d3d3d3;
+  text-decoration: none;
   transition: opacity .5s ease;
 }
 

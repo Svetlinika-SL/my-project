@@ -15,7 +15,7 @@
 @import url('../blocks/banner/__title/banner__title.css');
 @import url('../blocks/banner/__subtitle/banner__subtitle.css');
 @import url('../blocks/banner/__button/banner__button.css');
-@import url('../blocks/banner/__button/__text/button__text.css');
+
 
 @import url('../blocks/banner-tw/banner-tw.css');
 @import url('../blocks/banner-tw/__title/banner-tw__title.css');
@@ -38,7 +38,6 @@
 @import url('../blocks/banner-black/__title/banner-black__title.css');
 @import url('../blocks/banner-black/__subtitle/banner-black__subtitle.css');
 @import url('../blocks/banner-black/__button/banner-black__button.css');
-@import url('../blocks/banner-black/__button/__text/banner-black__text.css');
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
